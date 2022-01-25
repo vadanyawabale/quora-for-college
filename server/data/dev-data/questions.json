@@ -2,7 +2,7 @@
 	{
 		"userQuestioner": "Kaiwalya Koparkar",
 		"questionTitle": "This is a question 1",
-		"questionDescription": "This is the description of the question",
+		"questionDescription": "In this College how many different courses are there?",
 		"questionTag": "Courses",
 		"upvotes":10,
 		"downvotes":3,
@@ -11,8 +11,8 @@
 	{
 		"userQuestioner": "Pragati More",
 		"questionTitle": "This is a question 2",
-		"questionDescription": "This is the description of the question",
-		"questionTag": "Events",
+		"questionDescription": "Is there full security for girls?",
+		"questionTag": "Security",
 		"upvotes": 20,
 		"downvotes": 5,
 		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
@@ -21,8 +21,8 @@
 	{
 		"userQuestioner": "Kaiwalya Koparkar",
 		"questionTitle": "This is a question 3",
-		"questionDescription": "This is the description of the question",
-		"questionTag": "Courses",
+		"questionDescription": "How many years old this college is?",
+		"questionTag": "College",
 		"upvotes":15,
 		"downvotes":0,
 		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
@@ -30,10 +30,64 @@
 	{
 		"userQuestioner": "Vadanya Wabale",
 		"questionTitle": "This is a question 4",
-		"questionDescription": "This is the description of the question",
-		"questionTag": "Jobs",
+		"questionDescription": "How ane the teachers here?",
+		"questionTag": "Faculty",
 		"upvotes":15,
 		"downvotes":0,
 		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
-	}
+	},
+	{
+		"userQuestioner": "Rohan Patil",
+		"questionTitle": "This is question 5?",
+		"questionDescription": "Are the lectures going soothly?",
+		"questionTag": "Courses",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+	{
+		"userQuestioner": "Vadanya Wabale",
+		"questionTitle": "This is a question 6",
+		"questionDescription": "Are the washrooms clean?",
+		"questionTag": "College",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+	{
+		"userQuestioner": "Yash Bhalerao",
+		"questionTitle": "This is a question 7",
+		"questionDescription": "Is there a library?",
+		"questionTag": "College",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+	{
+		"userQuestioner": "Riya Joshi",
+		"questionTitle": "This is a question 8",
+		"questionDescription": "Is there any community for Anty-Ragging ?",
+		"questionTag": "College",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+    {
+		"userQuestioner": "Mrunal Chincholikar",
+		"questionTitle": "This is a question 9",
+		"questionDescription": "Is there any common room for girls?",
+		"questionTag": "College",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
+	{
+		"userQuestioner": "Vadanya Wabale",
+		"questionTitle": "This is a question 10",
+		"questionDescription": "Do the cultural fests happen?",
+		"questionTag": "College",
+		"upvotes":15,
+		"downvotes":0,
+		"answers": ["61dd46f03cecd228e9df643a", "61dd46f03cecd228e9df6439"]
+	},
 ]
